@@ -1,4 +1,5 @@
 transformers
+git
 torch
 librosa
 tqdm
