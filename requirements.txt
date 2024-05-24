@@ -1,4 +1,5 @@
 transformers
+torch
 librosa
 tqdm
 streamlit
