@@ -1,0 +1,5 @@
+transformers
+librosa
+tqdm
+streamlit
+pydub
